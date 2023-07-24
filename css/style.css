@@ -90,6 +90,10 @@ section{
     background: linear-gradient(to bottom, #1B1F34, rgba(27, 31, 52, 0.2));
 }
 
+.navbar .navbar-nav .nav-link { 
+     color: var(--white); 
+ }
+
 .navbar .navbar-nav .nav-link.active {
     color: var(--brand);
 }
