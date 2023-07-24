@@ -361,7 +361,7 @@ footer {
 
 @media screen and (max-width: 992px) {
     .navbar {
-        background: linear-gradient(to bottom, #1B1F34, rgba(27, 31, 52, 0.7));
+        background: linear-gradient(to bottom, #1B1F34, rgba(27, 31, 52, 0.9));
     }
 
     #hero p {
